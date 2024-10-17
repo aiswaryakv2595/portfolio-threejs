@@ -25,6 +25,7 @@ import {
     ecommerce,
     jobit,
     codepen,
+    labgex
     
   } from "../assets";
   
@@ -115,14 +116,19 @@ import {
   
   const experiences = [
     {
-      title: "Associate Customer Support",
-      company_name: "Tech Mahindra",
-      icon: techm,
-      iconBg: "#383E56",
-      date: "November 2018 - June 2019",
+      title: "MERN Stack Developer",
+      company_name: "LabGex Innovations Private Limited",
+      icon: labgex,
+      iconBg: "#E6DEDD",
+      date: "January 2024 - Present",
       points: [
-        "Effectively responded to incoming phone and chat contacts from consumers, consistently adhering to quality- and time-sensitive call center criteria.",
-        "Accurately entered customer interaction details into software, ensuring seamless tracking of requests,documentation of problems, and recording of solutions offered.",
+        "Developing and maintaining full stack application using Nodejs,React.js and Next.js",
+        `Developed and maintained web applications using WordPress`,
+        `Performed software testing on company projects, identified and
+reported critical vulnerabilities, contributing to improved security
+and software quality.
+`
+       
       ],
     },
     {
@@ -138,6 +144,18 @@ import {
        
       ],
     },
+    {
+      title: "Associate Customer Support",
+      company_name: "Tech Mahindra",
+      icon: techm,
+      iconBg: "#383E56",
+      date: "November 2018 - June 2019",
+      points: [
+        "Effectively responded to incoming phone and chat contacts from consumers, consistently adhering to quality- and time-sensitive call center criteria.",
+        "Accurately entered customer interaction details into software, ensuring seamless tracking of requests,documentation of problems, and recording of solutions offered.",
+      ],
+    },
+    
    
   ];
   

@@ -34,7 +34,7 @@ import tripguide from "./tripguide.png";
 import strategix from "./strategix.png"
 import ecommerce from "./ecommerce.png"
 import codepen from "./codepen.png"
-
+import labgex from "./company/labgex.png"
 export {
   logo,
   backend,
@@ -66,5 +66,6 @@ export {
   tripguide,
   strategix,
   ecommerce,
-  codepen
+  codepen,
+  labgex
 };
